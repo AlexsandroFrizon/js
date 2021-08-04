@@ -5,7 +5,10 @@ let altura = 1.80
 
 //Criando um objeto (classe?)
 let pessoa {
-	nome: 'Alexsandro'
+	nome: 'Alexsandro',
+	idade: 20,
+	altura: 1.80
+
 }
 
 //Imprimindo no console
